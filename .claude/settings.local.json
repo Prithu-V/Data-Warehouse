@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(docker exec retail_dw_mysql mysql -u dw_user -pdw_password retail_dw -e ' *)"
+    ]
+  }
+}
